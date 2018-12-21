@@ -1,0 +1,13 @@
+c:\users\hm-aud-3\documents\visual studio 2013\Projects\countstring\countstring\bin\Debug\countstring.exe.config
+c:\users\hm-aud-3\documents\visual studio 2013\Projects\countstring\countstring\bin\Debug\countstring.exe
+c:\users\hm-aud-3\documents\visual studio 2013\Projects\countstring\countstring\bin\Debug\countstring.pdb
+c:\users\hm-aud-3\documents\visual studio 2013\Projects\countstring\countstring\obj\Debug\countstring.csprojResolveAssemblyReference.cache
+c:\users\hm-aud-3\documents\visual studio 2013\Projects\countstring\countstring\obj\Debug\countstring.exe
+c:\users\hm-aud-3\documents\visual studio 2013\Projects\countstring\countstring\obj\Debug\countstring.pdb
+C:\Users\Sabina123\Desktop\countstring\countstring\bin\Debug\countstring.exe.config
+C:\Users\Sabina123\Desktop\countstring\countstring\bin\Debug\countstring.exe
+C:\Users\Sabina123\Desktop\countstring\countstring\bin\Debug\countstring.pdb
+C:\Users\Sabina123\Desktop\countstring\countstring\obj\Debug\countstring.csprojAssemblyReference.cache
+C:\Users\Sabina123\Desktop\countstring\countstring\obj\Debug\countstring.csproj.CoreCompileInputs.cache
+C:\Users\Sabina123\Desktop\countstring\countstring\obj\Debug\countstring.exe
+C:\Users\Sabina123\Desktop\countstring\countstring\obj\Debug\countstring.pdb
