@@ -1,0 +1,7 @@
+C:\Users\Sabina123\Desktop\timesstring\timesstring\bin\Debug\timesstring.exe.config
+C:\Users\Sabina123\Desktop\timesstring\timesstring\bin\Debug\timesstring.exe
+C:\Users\Sabina123\Desktop\timesstring\timesstring\bin\Debug\timesstring.pdb
+C:\Users\Sabina123\Desktop\timesstring\timesstring\obj\Debug\timesstring.csprojAssemblyReference.cache
+C:\Users\Sabina123\Desktop\timesstring\timesstring\obj\Debug\timesstring.csproj.CoreCompileInputs.cache
+C:\Users\Sabina123\Desktop\timesstring\timesstring\obj\Debug\timesstring.exe
+C:\Users\Sabina123\Desktop\timesstring\timesstring\obj\Debug\timesstring.pdb
